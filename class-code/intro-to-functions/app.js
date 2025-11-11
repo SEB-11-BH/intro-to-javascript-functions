@@ -138,3 +138,4 @@ const exponentNumber = number => number* number
 
 
 console.log(exponentNumber(4))
+
