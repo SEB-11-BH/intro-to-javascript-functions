@@ -88,3 +88,11 @@ function doesPlanetContainBahrain(planet){
 if(planetHasWater('Earth') && doesPlanetContainBahrain('Earth')){
     console.log("YES IT DOES")
 }
+
+function minusTwoNumbers(num1, num2){
+    console.log("coding work")
+    console.log("coding work")
+    console.log("coding work")
+    console.log("coding work")
+    
+}
